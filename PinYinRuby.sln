@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingBuilder", "ReadingBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeAddon", "ChromeAddon\ChromeAddon.csproj", "{CE25C5ED-A92A-44A4-9C41-809DE3BF23D4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Git", "Git", "{5252D297-D593-4CE7-9237-60CE7C361D5C}"
+	ProjectSection(SolutionItems) = preProject
+		Capture.jpg = Capture.jpg
+		License.md = License.md
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
