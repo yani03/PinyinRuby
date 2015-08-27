@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingBuilder", "ReadingBuilder\ReadingBuilder.csproj", "{22A05F8F-DE56-4BF8-978C-3B61897AD272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeAddon", "ChromeAddon\ChromeAddon.csproj", "{CE25C5ED-A92A-44A4-9C41-809DE3BF23D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A05F8F-DE56-4BF8-978C-3B61897AD272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A05F8F-DE56-4BF8-978C-3B61897AD272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A05F8F-DE56-4BF8-978C-3B61897AD272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A05F8F-DE56-4BF8-978C-3B61897AD272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE25C5ED-A92A-44A4-9C41-809DE3BF23D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE25C5ED-A92A-44A4-9C41-809DE3BF23D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE25C5ED-A92A-44A4-9C41-809DE3BF23D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE25C5ED-A92A-44A4-9C41-809DE3BF23D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

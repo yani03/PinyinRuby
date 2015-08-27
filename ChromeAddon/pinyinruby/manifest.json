@@ -1,0 +1,10 @@
+﻿{
+	"manifest_version": 2,
+	"name": "拼音ルビ",
+	"version": "0.1.0",
+	"description": "簡体字に拼音のルビを振ります。",
+	"icons": { "16": "icon16x16.png", "48": "icon48x48.png", "128": "icon128x128.png" },
+	"permissions": [ "activeTab" ],
+	"browser_action": { "default_icon": { "19": "icon19x19.png", "38": "icon38x38.png" }, "default_title": "拼音ルビ" },
+	"background": { "scripts": [ "background.js" ] }
+}
