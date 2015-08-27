@@ -1,7 +1,7 @@
 ﻿# PinYinRuby
 簡体字に拼音のルビを振る Chrome 拡張機能です。
 
-![キャプチャ](https://github.com/syu105/PinYinRuby/PinYinRuby.jpg)
+![キャプチャ](https://github.com/syu105/PinYinRuby/Capture.jpg)
 
 ## ビルド
 <http://unicode.org/Public/UNIDATA/Unihan.zip> に含まれる Unihan_Readings.txt が必要です。
