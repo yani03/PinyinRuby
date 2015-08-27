@@ -10,4 +10,4 @@ ReadingBuilder プロジェクトの作業ディレクトリをそのプロジ�
 reading.json が生成されます。Chrome をデベロッパーモードにし、パッケージ化した .prx を追加します。
 
 ## ライセンス
-<https://github.com/syu105/PinYinRuby/License.md>
+<https://github.com/syu105/PinYinRuby/blob/master/License.md>
